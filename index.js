@@ -114,10 +114,14 @@ For example, variableInterestRate(200000, 0.04, 30) should console.log:
 
 function variableInterestRate(p, i, n){
     for(let x = 0; x < 9; x++){
-      
+      let nR = (i -0.02)+(x*0.005)
+
+      let variableInterest = monthlyRate;
+
+      console.log(`${name}, with an interest rate of ${nR}, your monthly rate is ${variableInterest}`);
     }
 }
-
+console.log(variableInterestRate(200000, 0.04, 30));
 
 // 🌟🌟🌟 STRETCH 🌟🌟🌟//
 
