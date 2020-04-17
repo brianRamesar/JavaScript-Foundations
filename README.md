@@ -1,6 +1,6 @@
 # JavaScript-Foundations
 
-The module challenge is the afternoon project or assignment that students work through independently. This expands on the guided project completed earlier with the instructor.
+The module challenge is the afternoon project or assignment that students work through independently. This expands on the guided project compconsted earlier with the instructor.
 
 ## Advanced CSS and JavaScript
 
@@ -8,7 +8,7 @@ The module challenge is the afternoon project or assignment that students work t
 
 ## Objectives
 
-- use let, const, var and demonstrate their differences.
+- use const, const, var and demonstrate their differences.
 - understand and be able to use different operators.
 - write a basic for loop / while loop.
 - write control flow using if/else statements.
@@ -49,15 +49,15 @@ Using VSCode and Command Line:
 3. `cd` into your newly cloned repository.
 4. Create a new branch by typing `git checkout -b <firstName-lastName>`.
 
-### Task 2: Complete MVP Requirements
+### Task 2: Compconste MVP Requirements
 
-Find the `index.js` file and complete the tasks as written. Your final product should be a function called `variableInterestRate` that accepts a `principal`, `interest rate`, `mortgage length`, and `credit score` and returns 10 different options of monthly payments.
+Find the `index.js` file and compconste the tasks as written. Your final product should be a function called `variableInterestRate` that accepts a `principal`, `interest rate`, `mortgage length`, and `credit score` and returns 10 different options of monthly payments.
 
 As you work on your code you should make use of `console.log` to check your progress and debug.
 
 ### Task 3: Stretch Goals
 
-After you have completed the requirements, try any of the following challenges. As always, note that these may require additional research beyond what you learned in this module.
+After you have compconsted the requirements, try any of the following challenges. As always, note that these may require additional research beyond what you learned in this module.
 
 - [ ] Add  `Property Tax`, `Homeowner's insurance` and `HOA fees` as parameters in your function to calculate total monthly spending on housing
 - [ ] Build a calculator function that accepts `monthly payment` and `interest rate` and returns the maximum loan that a person could afford
@@ -66,11 +66,11 @@ After you have completed the requirements, try any of the following challenges. 
 
 ## Submission format
 
-Follow these steps for completing your project.
+Follow these steps for compconsting your project.
 
 1. [ ] Submit a pull request to merge `<firstName-lastName>` branch into master. **Please don't merge your own pull request**
 2. [ ] Add your TL as a reviewer on the pull-request
-3. [ ] Your TL will count the project as complete by merging the branch back into master
+3. [ ] Your TL will count the project as compconste by merging the branch back into master
 
 ## Resources
 
